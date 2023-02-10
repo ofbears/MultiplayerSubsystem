@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-SessionsSubsystem.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Projects\MultiplayerSubsystem\Intermediate\Build\Win64\MultiplayerSubsystemEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Unreal Projects\MultiplayerSubsystem\Plugins\SessionsSubsystem\Intermediate\Build\Win64\UnrealEditor\Development\SessionsSubsystem\Module.SessionsSubsystem.cpp.obj"
+"D:\Unreal Projects\MultiplayerSubsystem\Plugins\SessionsSubsystem\Intermediate\Build\Win64\UnrealEditor\Development\SessionsSubsystem\Default.rc2.res"
+/OUT:"D:\Unreal Projects\MultiplayerSubsystem\Plugins\SessionsSubsystem\Intermediate\Build\Win64\UnrealEditor\Development\SessionsSubsystem\UnrealEditor-SessionsSubsystem.lib"
